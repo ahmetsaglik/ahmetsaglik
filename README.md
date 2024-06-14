@@ -1,6 +1,7 @@
-## Hi there 👋
-
-- 🔭 I’m currently working on Kipaş Holding
-- 📫 How to reach me: saglik46@gmail.com
-
+<div>
+  ## Hi there 👋
+  
+  - 🔭 I’m currently working on Kipaş Holding
+  - 📫 How to reach me: saglik46@gmail.com
+</div>
 <a href="https://app.daily.dev/ahmetsaglik"><img src="https://api.daily.dev/devcards/v2/jNgivaKQYJX7fbbquTZyD.png?type=default&r=6q8" width="356" alt="Ahmet Sağlık's Dev Card"/></a>
